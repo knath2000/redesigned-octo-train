@@ -1,5 +1,5 @@
 #What is two to the power of five? 
-ans = 2^6
+ans = 2^5
 print(ans)
 
 #Create a vector called stock.prices with the following data points: 23,27,23,21,34
